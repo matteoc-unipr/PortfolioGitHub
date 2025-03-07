@@ -11,6 +11,8 @@ import grainImage from "@/assets/images/grain.jpg";
 import { SectionHeader } from "@/components/SectionHeader";
 import { Card } from "@/components/Card";
 
+// To generate the ipad mockups: https://mediamodifier.com/mockup/horizontal-view-ipad-pro-with-apple-pencil-mockup-generator/1980 
+
 const portfolioProjects = [
   {
     company: "Università di Parma",
