@@ -22,7 +22,7 @@ const testimonials = [
     avatar: memojiAvatar2,
   },
   {
-    name: "Daniel White",
+    name: "Daniel Whte",
     position: "CEO @ InnovateCo",
     text: "Alex's ability to create seamless user experiences is unmatched. Our website has seen a significant increase in conversions since launching the new design. We couldn't be happier.",
     avatar: memojiAvatar3,
